@@ -1,0 +1,23 @@
+body * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 5rem;
+}
+
+h2 {
+    padding-bottom: 1rem;
+}
+
+.repoDetails:hover {
+    background-color: #eee;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    font-size: 2rem;
+}
